@@ -1,7 +1,7 @@
 # 👨‍💻 Estudiante de Ingeniería en Sistemas
 Soy un estudiante de Ingeniería en Sistemas apasionado por la tecnología y el desarrollo de software. Actualmente, estoy aprendiendo y mejorando mis habilidades para contribuir en proyectos de software en el futuro.
 
-##🌟 Habilidades y Conocimientos
+## 🌟 Habilidades y Conocimientos
 ### Lenguajes de Programación
 - C#
 - JavaScript (en proceso de aprendizaje)
